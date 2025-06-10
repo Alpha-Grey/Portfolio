@@ -1,0 +1,44 @@
+# OS generated files #
+######################
+.DS_Store
+Thumbs.db
+
+# IDE directories and files #
+############################
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Node dependencies (if you use any node tools) #
+###############################################
+node_modules/
+dist/
+build/
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Environment files (if any)
+.env
+.env.local
+.env.*.local
+
+# Mac system files
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Temporary folders
+tmp/
+temp/
+
+# Coverage reports (if any testing added)
+coverage/
